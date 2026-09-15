@@ -102,9 +102,10 @@ RNN-based sentiment classifier with full text preprocessing and vectorization, e
 <p align="center">
   <img width="40%" src="https://github-stats-sable-beta.vercel.app/api?username=dk-ml-dev&show_icons=true&theme=default&hide_border=true" />
 </p>
+
 <p align="center">
-  <img width="23%" src="https://github-stats-sable-beta.vercel.app/api/top-langs/?username=dk-ml-dev&layout=compact&theme=default&hide_border=true"/>
-  <img width="23%" src="https://github-readme-streak-stats.herokuapp.com/?user=dk-ml-dev&theme=default&hide_border=true" />
+  <img width="23%" src="https://github-stats-sable-beta.vercel.app/api/top-langs/?username=dk-ml-dev&layout=compact&theme=default&hide_border=true" />
+  <img width="23%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dk-ml-dev&theme=default" />
 </p>
 
 
